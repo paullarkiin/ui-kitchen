@@ -1,6 +1,6 @@
 "use client";
 
-import AnimatedGradientLoader from "../experiments/AnimatedGradientLoader";
+import AnimatedGradientLoader from "../experiments/_chat-loader/AnimatedGradientLoader";
 import ExperimentsCard from "./ExperimentsCard";
 
 const experiments = [
